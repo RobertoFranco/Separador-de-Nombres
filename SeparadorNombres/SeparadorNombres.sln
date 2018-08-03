@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparadorNombres", "SeparadorNombres\SeparadorNombres.csproj", "{5CC19085-7949-4897-8A65-20E408B976DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparadorNombres.Test", "SeparadorNombres.Test\SeparadorNombres.Test.csproj", "{C7523077-DFF8-4108-9CDC-3E2BBF4764F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC19085-7949-4897-8A65-20E408B976DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC19085-7949-4897-8A65-20E408B976DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC19085-7949-4897-8A65-20E408B976DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC19085-7949-4897-8A65-20E408B976DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7523077-DFF8-4108-9CDC-3E2BBF4764F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7523077-DFF8-4108-9CDC-3E2BBF4764F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7523077-DFF8-4108-9CDC-3E2BBF4764F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7523077-DFF8-4108-9CDC-3E2BBF4764F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ECF7ADE-575E-465D-A64C-65546F097688}
+	EndGlobalSection
+EndGlobal
